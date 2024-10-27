@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @raythegreat123
+- 👀 I’m interested in C++ Development
+- 🌱 I’m currently learning the C++ language
+- 💞️ I’m looking to collaborate on game development in C++
+- 📫 Use my email, raymurimi13@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: C++ is one of the best languages to ever exist!
